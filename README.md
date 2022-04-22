@@ -2,8 +2,13 @@
 <p align="center">
    <i>“Mistakes are also important to me. I don’t cross them out of my life, or memory. And I never blame others for them.”</i>
    <br/>
-   <b>Andrzej Sapkowski,The Witcher<b/>
+   <b>Andrzej Sapkowski, The Witcher<b/>
 </p>
+   
+<br/>
+<div align="right">
+   <img align="right" width="450px" alt="GIF" src="https://github.com/lucasmatnibezerra/lucasmatnibezerra/blob/main/preview.gif"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmatnibezerra&color=orange" alt="Profile views" /> </p>
 
@@ -36,7 +41,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👦🏻 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/lucas-matni-bezerra-139b0616a/" target="_blank">
