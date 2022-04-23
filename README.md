@@ -7,7 +7,7 @@
    
 <br/>
 <div align="right">
-   <img align="right" width="430px" alt="GIF" src="https://github.com/lucasmatnibezerra/lucasmatnibezerra/blob/main/preview.gif"/>
+   <img align="right" width="450px" alt="GIF" src="https://github.com/lucasmatnibezerra/lucasmatnibezerra/blob/main/preview.gif"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmatnibezerra&color=orange" alt="Profile views" /> </p>
@@ -35,8 +35,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasmatnibezerra&show_icons=true&theme=github_dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmatnibezerra&layout=compact&theme=github_dark" alt="maykbrito's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=lucasmatnibezerra&show_icons=true&theme=github_dark" alt="maykbrito's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmatnibezerra&layout=compact&theme=github_dark" alt="maykbrito's most languages"/>
 </p>
 
 <br><br>
