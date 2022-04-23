@@ -7,7 +7,7 @@
    
 <br/>
 <div align="right">
-   <img align="right"  margin="50"  width="400px" alt="GIF" src="https://github.com/lucasmatnibezerra/lucasmatnibezerra/blob/main/preview.gif"/>
+   <img align="right" width="400px" alt="GIF" src="https://github.com/lucasmatnibezerra/lucasmatnibezerra/blob/main/preview.gif"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmatnibezerra&color=orange" alt="Profile views" /> </p>
@@ -32,7 +32,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmatnibezerra&layout=compact&theme=github_dark" alt="lucasmatni's most languages"/>
+<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmatnibezerra&layout=compact&theme=github_dark" alt="lucasmatni's most languages"/>
 </p>
 
 <br><br>
