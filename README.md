@@ -7,7 +7,7 @@
    
 <br/>
 <div align="right">
-   <img align="right" width="450px" alt="GIF" src="https://github.com/lucasmatnibezerra/lucasmatnibezerra/blob/main/preview.gif"/>
+   <img align="right" width="400px" alt="GIF" src="https://github.com/lucasmatnibezerra/lucasmatnibezerra/blob/main/preview.gif"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmatnibezerra&color=orange" alt="Profile views" /> </p>
