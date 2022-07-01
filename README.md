@@ -1,4 +1,4 @@
-<h1 align= "center">Hello There! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">I'm Lucas Matni</h1> 
+<h1 align= "center">Hello There! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">I'm Lucas Matni</h1> 
 <p align="center">
    <i>“Mistakes are also important to me. I don’t cross them out of my life, or memory. And I never blame others for them.”</i>
    <br/>
