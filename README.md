@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmatnibezerra&color=orange" alt="Profile views" /> </p>
 
-- Junior Web Developer & Researcher at LASSE
+- React Developer & Researcher at LASSE
 - i'm currently working at R&D Nucleus in Telecommunications, Automation and Electronics (LASSE)
 <br><br>
 
