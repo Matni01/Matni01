@@ -1,4 +1,10 @@
-<h1 align= "center">Hello There!>I'm Lucas Matni</h1> 
+
+<div align="center" >
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+There!+%F0%9F%91%8B+I'm+Lucas+Matni" alt="Typing SVG" /></a>
+
+</div>   
+
+ 
 <p align="center">
    <i>“Mistakes are also important to me. I don’t cross them out of my life, or memory. And I never blame others for them.”</i>
    <br/>
